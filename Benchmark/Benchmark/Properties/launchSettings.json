@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Benchmark_tesi": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

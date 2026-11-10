@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Benchmark/">
+    <Project Path="Benchmark/Benchmark/Benchmark_tesi.csproj" />
+  </Folder>
+  <Project Path="CoilCut.Shared/CoilCut.Shared.csproj" />
+  <Project Path="CoilCutMesWpf/CoilCutMesWpf.csproj" />
+  <Project Path="CoilCutOperatorHmiWpf/CoilCutOperatorHmiWpf.csproj" />
+</Solution>
+

@@ -1,0 +1,44 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+!**/packages/build/
+
+# Test and benchmark output
+TestResults/
+BenchmarkDotNet.Artifacts/
+*.trx
+coverage*/
+
+# Local application data and logs
+*.log
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.local.json
+secrets*.json
+secrets*.yaml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
